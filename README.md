@@ -2,6 +2,11 @@
 **Bottleneck-Oriented Overlap Scheduling（Greedy Baseline）**  
 **瓶頸導向可重疊排程（貪婪基準實作）**
 
+## ▶ Dashboard Demo
+
+![BOS Dashboard](assets/bos_dashboard_demo.png)
+
+
 ---
 
 ## 📌 Overview ｜ 專案概述
