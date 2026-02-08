@@ -4,7 +4,7 @@
 
 ## ▶ Dashboard Demo
 
-![BOS Dashboard](assets/bos_dashboard_demo.png)
+![BOS Dashboard](assets/dashboard.png)
 
 
 ---
