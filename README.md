@@ -103,6 +103,7 @@ This project is licensed under the **MIT License**.
 ## 🙋 Author ｜ 作者
 
 **洪禎**  
+國立中央大學 資訊工程博士
 國立中正大學 碩士  
 
 GitHub: https://github.com/scuranger0625
